@@ -36,6 +36,6 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/firebase.png" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kritagyabhagat&show_icons=true&locale=en&layout=compact" alt="Kritagyabhagat" /></div>
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kritagyabhagat&show_icons=true&locale=en" alt="Kritagyabhagat" /></div>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kritagyabhagat&" alt="Kritagyabhagat" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kritagyabhagat&show_icons=true&locale=en&layout=compact" alt="Kritagyabhagat" /></div><br>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kritagyabhagat&show_icons=true&locale=en" alt="Kritagyabhagat" /></div><br>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kritagyabhagat&" alt="Kritagyabhagat" /></div><br>
